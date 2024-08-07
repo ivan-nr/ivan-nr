@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=astro,aws,azure,babel,bun,c,cs,cloudflare,docker,dotnet,electron,elysia,emotion,express,figma,firebase,flutter,gcp,github,githubactions,gitlab,go,grafana,graphql,heroku,htmx,idea,js,jest,kafka,kotlin,kubernetes,linux,md,materialui,mongodb,neovim,nestjs,netlify,nextjs,nginx,nodejs,notion,npm,pnpm,postgres,postman,powershell,prisma,py,rabbitmq,react,redis,redux,rust,styledcomponents,supabase,svelte,swift,tailwind,terraform,ts,ubuntu,vercel,vite,vitest,vscode,webpack,webstorm,windows,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bun,cloudflare,docker,elysia,emotion,express,figma,firebase,gcp,github,githubactions,gitlab,go,graphql,idea,js,jest,kotlin,kubernetes,linux,md,materialui,mongodb,nestjs,nextjs,nginx,nodejs,notion,npm,pnpm,postgres,postman,prisma,react,redux,tailwind,ts,ubuntu,vercel,vite,vitest,vscode,webstorm)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ivan-nr&theme=nightowl&hide_border=false)<br/>
