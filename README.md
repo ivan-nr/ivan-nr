@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJS, Next.js with TypeScript, and Golang.<br>💬 Ask me about frontend development, React, Next.js, and API integrations.<br>⚡ Fun fact: I love playing games in my free time! 🎮<br><br>Feel free to connect with me!
+🌱 I’m currently learning ReactJS, Next.js with TypeScript, and Golang.<br>💬 Ask me about frontend development, React, Next.js, and API integrations.<br>📧 How to reach me: ivanngudi16@gmail.com<br><br>Feel free to connect with me!
 
 
 # 💻 Tech Stack:
